@@ -1,0 +1,26 @@
+body{
+    margin: 0;
+    background-color: antiquewhite;
+    text-align: center;
+}
+.header{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: rgb(159, 138, 111);
+    padding: 20px;
+    border: 1px solid black;
+    /* color: rgb(118, 69, 9); */
+}
+p{
+    font-family: 'Courier New', Courier, monospace;
+}
+ul{
+    margin: auto;
+    list-style: decimal;
+    width: 6%;
+}
+.pragra{
+    /* background-color: rgb(198, 168, 129);
+    padding: 20px; */
+    text-align: justify;
+    /* border: 1px solid black; */
+}
